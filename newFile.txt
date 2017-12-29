@@ -1,7 +1,8 @@
 This is a git demo
 
-first change 
-second change
+First change 
+Second change
 
-third change
+Third change
 
+testing reset
