@@ -8,9 +8,4 @@ Third - change
 testing reset
 change 4
 
-<<<<<<< HEAD
-new change in master
-=======
-change 8 in file
-
->>>>>>> bug321
+new change from local
