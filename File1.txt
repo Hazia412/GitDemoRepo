@@ -1,8 +1,8 @@
 This is a git demo
 
-First change 
-Second change
+First - change 
+Second - change
 
-Third change
+Third - change
 
 testing reset
