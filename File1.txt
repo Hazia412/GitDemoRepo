@@ -7,3 +7,5 @@ Third - change
 
 testing reset
 change 4
+
+new change in master
