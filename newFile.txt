@@ -5,4 +5,3 @@ second change
 
 third change
 
-checking reset vs revert
